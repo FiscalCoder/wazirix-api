@@ -1,5 +1,5 @@
 # wazirix-api
-Get started:
+### Get started:
 
 #### clone the git repoitory to your desired path in your file system.
 #### run 'npm install' command.
